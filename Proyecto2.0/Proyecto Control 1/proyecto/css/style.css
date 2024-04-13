@@ -1,0 +1,113 @@
+body {
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.cuadro_login {
+    border: 1px solid blue;
+    padding: 10px;
+    width: 300px;
+}
+
+.boton_ingresar {
+    width: 200px;
+    margin: auto
+}
+
+.index_disponible {
+    color: green;
+    font-weight: bolder;
+}
+
+.index_precio {
+    color: blue;
+    font-size: 20px;
+}
+
+.index_subscrito {
+    color: red;
+    font-size: 20px;
+}
+
+.index_stock {
+    color: green;
+    font-weight: bolder;
+}
+
+.ficha_foto {
+    height: 100%;
+    float: right;
+    border: 3px solid rgb(236, 9, 9);
+}
+
+.ficha_titulo {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.ficha_disponible {
+    color: green;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.ficha_precio {
+    font-size: 40px;
+}
+
+.ficha_descripcion {
+    font-size:40px;
+}
+.ficha_descripcion2{
+    font-size:30px;
+}
+.ficha_stock{
+    font-size:30px;
+}
+.registro_foto {
+    height: 200px;
+}
+
+.formulario{
+    display: block;
+    margin: 20px;
+}
+
+.foto_perfil{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    margin-bottom:5rem;
+}
+
+.fondo {
+    background-color:#0000003e;
+}
+
+.table{
+    border-radius:10px;
+}
+.table th:hover {
+    color:red  ;
+}
+.subfondo_2{
+    margin:20px;
+
+}
+.fondo_1 {
+    background-color:rgb(180, 168, 168);
+    border-radius:20px;
+    margin:10px;
+}
+
+.fondo_pagina{
+    background-color:rgb(188, 202, 199);
+}
+
